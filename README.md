@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriyansg
-- 👀 I’m interested in Development and AI/ML
-- 🌱 I’m currently learning C, C++, Web Dev and Flutter
+- 👀 I’m interested in Development
+- 🌱 Languages I've worked with are Java, C/C++, Python, HTML, CSS, Javascript, Dart.
 - 📫 How to reach me: sgsriyans@gmail.com
 
 <!---
