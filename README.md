@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing websites.
-- 🎓 &nbsp; Studying Computer Science and Engineering currently in second year.
+- 🎓 &nbsp; Computer Science Graduate.
 - 🌱 &nbsp; Learning more about Data Science and Full Stack Web Development.
 - ✍️ &nbsp; Pursuing Photography and graphic designing as hobbies/side hustles.
 
