@@ -4,9 +4,9 @@
           
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing websites.
+- 🤔 &nbsp; Exploring new tech and developing useful tools.
 - 🎓 &nbsp; Computer Science Graduate.
-- 🌱 &nbsp; Learning more about Data Science and Full Stack Web Development.
+- 🌱 &nbsp; Learning more about Data Science and AI Engineering
 - ✍️ &nbsp; Pursuing Photography and graphic designing as hobbies/side hustles.
 
 
